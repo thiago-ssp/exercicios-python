@@ -1,0 +1,3 @@
+#!C:\Users\thiag\Documents\Code\Exercicios\exercicios-py\env\Scripts\python.exe
+from numba.pycc import main
+main()
